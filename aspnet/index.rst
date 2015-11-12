@@ -8,8 +8,14 @@
 ASP.NET 5 Documentation
 =======================
 
-.. note:: `This Microsoft Download Center page <http://go.microsoft.com/fwlink/?LinkId=623894>`__ contains instructions for downloading and installing ASP.NET beta 7 and the tooling updates for Visual Studio 2015.
+.. attention:: ASP.NET 5 beta8 is now available! Please see the :doc:`Getting Started <getting-started/index>` instructions for installing the latest version.
+
 .. include:: ../common/stub-overview.txt
+
+Frameworks
+----------
+
+* :ref:`MVC <mvc:index>`
 
 Topics
 ------
@@ -21,6 +27,7 @@ Topics
     tutorials/index
     conceptual-overview/index
     fundamentals/index
+    testing/index
     dnx/index
     frameworks/index
     data/index
@@ -36,6 +43,7 @@ Related Resources
 -----------------
 
 * :ref:`.NET Core Documentation <dotnet:index>`
+* `Entity Framework <http://ef.readthedocs.org>`_
 
 Contribute
 ----------
